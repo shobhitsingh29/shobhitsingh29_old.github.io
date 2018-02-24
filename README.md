@@ -6,4 +6,4 @@ goto localhost:3000
 
 # TIC TAC TOE GAME
 
-live demo at https://shobhitsingh29.github.io/home
+live demo at https://shobhitsingh29.github.io
